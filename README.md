@@ -27,7 +27,7 @@
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=DodoRS06&show_icons=true&theme=light"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    media="(prefers-color-scheme: light)"
   />
   <img height="230em" src="https://github-readme-stats.vercel.app/api?username=DodoRS06&show_icons=true" />
 </picture>
