@@ -53,9 +53,15 @@
   <a href="https://www.linkedin.com/in/douglas-raynner" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" target="_blank"></a> 
 </div>
 <br>
- 
+
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
   <!--![snake gif](https://github.com/DodoRS06/DodoRS06/blob/output/github-contribution-grid-snake.svg)-->
-  ![Snake animation](https://github.com/DodoRS06/DodoRS06/blob/output/github-contribution-grid-snake.svg)
+  <!--![Snake animation](https://github.com/DodoRS06/DodoRS06/blob/output/github-contribution-grid-snake.svg)-->
 
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Obrigado+pela+atenção!;" />
